@@ -1,0 +1,31 @@
+{
+  "regions": {
+    "riyadh": {
+      "name": "منطقة الرياض",
+      "lat": 24.7136,
+      "lon": 46.6753,
+      "zoom": 8,
+      "temp": 38.5,
+      "wind": 22.4,
+      "hotspotsCount": 3
+    },
+    "mediterranean": {
+      "name": "أثينا - حوض المتوسط",
+      "lat": 37.9838,
+      "lon": 23.7275,
+      "zoom": 7,
+      "temp": 34.2,
+      "wind": 31.0,
+      "hotspotsCount": 4
+    },
+    "california": {
+      "name": "كاليفورنيا",
+      "lat": 36.7783,
+      "lon": -119.4179,
+      "zoom": 7,
+      "temp": 32.0,
+      "wind": 45.5,
+      "hotspotsCount": 6
+    }
+  }
+}
